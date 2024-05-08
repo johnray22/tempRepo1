@@ -6,7 +6,7 @@ int main()
     int half=len/2;
     for (int i=0;i<len/2;i++){
         for (int j=0;j<half-i;j++){
-            printf(" ");
+            printf("1");
         }
 
         for (int j=0;j<2*i+1;j++){
